@@ -1,0 +1,47 @@
+h1 {
+    color: green;
+}
+
+.awesome {
+    font-weight: bold;
+}
+
+#d {
+    color: red;
+}
+
+span {
+    color: green;
+}
+
+.little {
+    font-size: 50%;
+}
+
+#container {
+    width: 1000px;
+    margin: auto;
+    border: 3px solid red;
+    padding: 10px;
+}
+
+p {
+    width: 500px;
+    height: 200px;
+    overflow: auto;
+}
+
+img {
+    width: 200px;
+    margin-right: 6px;
+    margin-bottom: 6px;
+}
+
+.beach {
+    position: absolute;
+    top: 10px;
+}
+
+.profile-favorite1 {
+    float: left;
+}
